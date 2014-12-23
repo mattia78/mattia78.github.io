@@ -1,15 +1,15 @@
 # Site settings
-title: Non ci sto capendo quasi una mazza...forse qualcosina
+title: Qualche scritto così, senza troppe pretese
 email: piabelli@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Ma che cavolo sto combinando?Una parvenza di struttura si sta formando nel mio cervello
+  Una parvenza di struttura si sta formando nel mio cervello, qualche tassello comincia a posizionarsi, neuroni si collegano tra loro. Avanti così sinapsi
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  mattia78
 
 # Build settings
 markdown: kramdown
