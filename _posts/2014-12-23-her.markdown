@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "lei"
+title:  "Lei"
 date:   2014-12-23 11:09:48
 categories: recensioni
-img: her.jpg
 ---
 
 
 
-<img src = "http://mattia78.github.io/assets/lei.jpg" class = "textwrap">
+<img src = "/assets/Lei.jpg" class = "textwrap">
 
 
 Questo film potrebbe essere considerato una commedia romantica se non fosse per il piccolo particolare che la protagonista femminile è un software.  
