@@ -13,6 +13,9 @@ layout: default
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          {% if post.title != "Welcome to Jekyll!" %} 
+            <img src = "/assets/{{ post.title }}.jpg" width="20%" height="20%" />
+          {% endif %}
         </h2>
       </li>
     {% endfor %}
