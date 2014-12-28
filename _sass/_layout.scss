@@ -161,10 +161,19 @@
 /**
  * Page content
  */
+ .home, .post{
+    background-color: #fdfdfd;
+    border-left: 10px solid grey;
+    border-right: 10px solid grey;
+ }
+ 
+ /**
+  * è un commento inserito da me
 .page-content {
     padding: $spacing-unit 0;
+  
 }
-
+*/
 .page-heading {
     font-size: 20px;
 }
@@ -173,7 +182,9 @@
     margin-left: 0;
     list-style: none;
 
+
     > li {
+        display: inline-block;  /*custom line, to display post in horizontal line */
         margin-bottom: $spacing-unit;
     }
 }
@@ -186,6 +197,7 @@
 .post-link {
     display: block;
     font-size: 24px;
+
 }
 
 

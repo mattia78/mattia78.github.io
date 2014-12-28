@@ -8,7 +8,15 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+.page-content{
+    background-image: url("/assets/cinema.jpg");
+    background-repeat: repeat;
+    
+    background-position: center center;
+    background-clip: border-box;
+    background-origin: padding-box;
+   
+}
 
 /**
  * Basic styling
@@ -28,9 +36,8 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
+h3, h4, h5, h6,
+blockquote, pre, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
 }
@@ -78,7 +85,6 @@ li {
          margin-bottom: 0;
     }
 }
-
 
 
 /**
