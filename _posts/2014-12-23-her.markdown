@@ -5,14 +5,12 @@ date:   2014-12-23 11:09:48
 categories: recensioni
 ---
 
-
-
+<div class = "post-article">
+<p>
 <img src = "/assets/Lei.jpg" class = "textwrap">
-
-
 Questo film potrebbe essere considerato una commedia romantica se non fosse per il piccolo particolare che la protagonista femminile è un software.  
 Proiettato in un futuro non troppo lontano da oggi, in cui l' intelligenza artificiale è molto progredita. Un software può interagire con l' uomo, apprendere, crescere, provare emozioni, dubbi, ma anche più di questo: può stabilire una relazione che risulta stimolante per entrambi, sia l' uomo che il software.
 La trama è avvincente e ben sviluppata.
 Consiglio, a chi ne avesse la possibilità, la visione in lingua originale, visto che Samantha (questo il nome del software) ha la voce della splendida `Scarlett Johansson`.
-
-
+</p>
+</div>
